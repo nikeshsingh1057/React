@@ -1,0 +1,5 @@
+// see docs 
+
+{
+    "plugins": [ ["transform-remove-console", { "exclude": [ "error", "warn"] }] ]
+}
