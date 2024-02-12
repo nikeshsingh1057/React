@@ -9,7 +9,7 @@ import ReactDOM, { createRoot } from "react-dom/client";
   Body 
       Search bar
       Restarurent List
-        Restaruent cart
+        Restaruent cart 
           Images
           Names
           Cusines
@@ -84,6 +84,7 @@ const RestaruentCard=()=>{
 }
 */
 const Body= ()=>{
+  
   return (
     <div className="restaurant-list">
       <RestaruentCard/>
